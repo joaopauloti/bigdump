@@ -1,4 +1,4 @@
-# bigdump
+# BigDump
 Script PHP que permite importar grandes arquivos SQL
 
 
