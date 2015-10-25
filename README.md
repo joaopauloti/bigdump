@@ -5,7 +5,7 @@ Script PHP que permite importar grandes arquivos SQL
 Para utilizar, altere os itens abaixo com as informações de seu banco de dados e rode no seu servidor.
 
 // Database configuration
-$db_server = ‘mysql02.redehost.com.br’;
+$db_server = ‘mysql02.seudominio.com.br’;
 
 $db_name = ‘nome do banco‘;
 
