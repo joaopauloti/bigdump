@@ -79,7 +79,7 @@ if ($ajax)
 
 define ('VERSION','0.31b');
 define ('DATA_CHUNK_LENGTH',16384);  // How many chars are read per time
-define ('MAX_QUERY_LINES',300);      // How many lines may be considered to be one query (except text lines)
+define ('MAX_QUERY_LINES',3000);      // How many lines may be considered to be one query (except text lines)
 define ('TESTMODE',false);           // Set to true to process the file without actually accessing the database
 
 header("Expires: Mon, 1 Dec 2003 01:00:00 GMT");
